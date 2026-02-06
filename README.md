@@ -1,2 +1,2 @@
-# python-cut-image-bulkly
+# python-cut-image-in-bulk
 More projects on pythondoer.com
